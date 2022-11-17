@@ -5,7 +5,7 @@
             "name": "Launch Main",
             "type": "cppdbg",
             "request": "launch",
-            "program": "./sfml-app",
+            "program": "${workspaceFolder}/sfml-app",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
